@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "0C40B6F4-7EC9-48FD-96EE-EE57B2870894",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ChatApp.xcodeproj",
+        "identifier" : "7CFD851C283252730001288A",
+        "name" : "ChatAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
